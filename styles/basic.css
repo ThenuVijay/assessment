@@ -1,0 +1,12 @@
+h1{color: blueviolet;
+font-family: Arial;}
+.part4{font-weight: bold;
+  text-decoration: underline ;
+ color: brown;}
+.part1{font-size: large;}
+p[name="sch"]{color: crimson;}
+div{width: 200px;
+    height:200px;
+    text-align:justify;
+    border:1px solid blue;}
+    
